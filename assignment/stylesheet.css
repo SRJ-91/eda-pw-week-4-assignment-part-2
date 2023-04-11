@@ -1,3 +1,11 @@
+body {
+    border: 1px black solid;
+    border-radius: 10px;
+    border-color: blue;
+    box-shadow: 5px 5px grey;
+    padding: 10px;
+}
+
 header {
     background-color: teal;
 }
@@ -5,4 +13,15 @@ header {
 h2 {
     background-color: teal;
     color: gold;
+    width: 50%;
+}
+
+img {
+    width: 50%;
+}
+
+h3 {
+    background-color: tan;
+    color: black;
+    width: 50%;
 }
